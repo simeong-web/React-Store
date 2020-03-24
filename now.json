@@ -1,0 +1,10 @@
+{
+  "name": "reactreserve",
+  "version": 2,
+  "env": {
+    "MONGO_SRV": "mongodb+srv://SGeorgiev:Rdcvg8426@reactmernproject-xxm0l.mongodb.net/test?retryWrites=true&w=majority",
+    "JWT_SECRET": "fgsdfgsdfgsdfgsd",
+    "CLOUDINARY_URL": "https://api.cloudinary.com/v1_1/duvtyro9c/image/upload",
+    "STRIPE_SECRET_KEY": "sk_test_jFFF6zYonOnQjjhYpWmqhmlq00NJH8lHXk"
+  }
+}
